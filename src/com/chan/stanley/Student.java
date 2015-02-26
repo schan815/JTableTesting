@@ -10,7 +10,7 @@ public class Student
     private String name;
     private Grade grade;
     private String union;
-    private int num;
+    private int num2;
  
     public Student(int id, String name, Grade grade) {
         this.id = id;
