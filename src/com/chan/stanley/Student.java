@@ -9,11 +9,13 @@ public class Student
     private int id;
     private String name;
     private Grade grade;
+    private String union;
  
     public Student(int id, String name, Grade grade) {
         this.id = id;
         this.name = name;
         this.grade = grade;
+        
     }
  
     public int getId()
